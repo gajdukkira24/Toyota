@@ -1,8 +1,26 @@
 .contayner1 {
     display: flex;
-
+    padding: top;
+align-items: center;
 }
 .logo {
     width: 49px;
     height: 49px;
+}
+
+.footer {
+    color: #cbaaaa;
+}
+.button {
+    color: #963030;
+    height: 30px;
+    width: 300px;
+}
+.header {
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-image: url(./imges/images-2.jpg);
+    width: 390px;
+    margin-left: auto;
+    margin-right: auto;
 }
