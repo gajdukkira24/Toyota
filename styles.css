@@ -1,26 +1,15 @@
-.contayner1 {
-    display: flex;
-    padding: top;
-align-items: center;
-}
-.logo {
-    width: 49px;
-    height: 49px;
+.button {
+    color: #000000;
+    background-color: rgb(134, 128, 128);
 }
 
 .footer {
-    color: #cbaaaa;
+    color: #797474d6;
 }
-.button {
-    color: #963030;
-    height: 30px;
-    width: 300px;
+.logo {
+    color: #433d3d;
 }
-.header {
-    padding-top: 200px;
-    padding-bottom: 200px;
-    background-image: url(./imges/images-2.jpg);
-    width: 390px;
-    margin-left: auto;
-    margin-right: auto;
+.contayner36 {
+    align-self: start;
+    color: #908888;
 }
